@@ -30,7 +30,7 @@
 		"@wordpress/block-editor": "14.0.0",
 		"@wordpress/blocks": "13.5.0",
 		"@wordpress/components": "28.5.0",
-		"@wordpress/compose": "7.5.0",
+		"@wordpress/compose": "7.9.0",
 		"@wordpress/data": "10.5.0",
 		"@wordpress/date": "5.5.0",
 		"@wordpress/edit-post": "8.5.0",
