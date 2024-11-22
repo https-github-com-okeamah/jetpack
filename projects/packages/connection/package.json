@@ -26,7 +26,7 @@
 	},
 	"dependencies": {
 		"@automattic/jetpack-idc": "workspace:*",
-		"@wordpress/data": "10.5.0",
+		"@wordpress/data": "10.11.0",
 		"@wordpress/element": "6.10.0"
 	},
 	"devDependencies": {
